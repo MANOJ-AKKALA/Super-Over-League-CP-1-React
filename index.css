@@ -1,0 +1,31 @@
+/* Write your code here. */
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.rcb {
+  height: 300px;
+  width: 300px;
+}
+.csk {
+  height: 300px;
+  width: 300px;
+}
+.heading {
+  color: wheat;
+  font-family: "caveat";
+  font-size: 62px;
+  font-weight: 700;
+}
+
+.bg {
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
